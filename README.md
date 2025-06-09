@@ -36,3 +36,5 @@ Se você quiser bater um papo sobre tecnologia, projetos, colaboração ou oport
 
 [![anamatozo](https://github-readme-stats.vercel.app/api/top-langs/?username=anamatozo&hide=html&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/anamatozo/anamatozo/blob/output/github-contribution-grid-snake.svg)
+
