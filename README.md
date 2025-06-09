@@ -2,11 +2,19 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-Faça uma breve apresentação sobre você e a sua stack.
+### ✨ Sobre mim
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+Sou estudante de **Engenharia de Software** da PUC-campinas, com grande interesse nas áreas de desenvolvimento web, mobile e inteligência artificial. Estou sempre em busca de novos desafios para aplicar na prática o que aprendo na teoria. Gosto de transformar ideias em código e criar soluções que façam sentido e tenham impacto.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+
+
+### 💬 Vamos conversar?
+
+Se você quiser bater um papo sobre tecnologia, projetos, colaboração ou oportunidades de estágio, estou super aberta a conversar!  
+📧 **Email:** anajuliamatozo@outlook.com  
+📱 **WhatsApp:** (19) 99169-6828  
+🔗 **LinkedIn:** www.linkedin.com/in/anajuliamatozo
+
 
 
 ## 🚀 Minhas Skills
